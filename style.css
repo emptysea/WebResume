@@ -1,0 +1,32 @@
+* {
+    /*outline: 2px solid red;*/
+}
+
+
+.TitleHeading {
+    text-align: center;   
+}
+
+.BodyHeading{
+    font-weight: bold;
+    text-align: left;
+}
+
+.EmploymentHeading{
+    display: flex;
+    
+}
+
+.EmploymentHeading div{
+    text-indent: 50px;
+    flex: 1;
+}
+
+.datetime{
+    text-align: center;
+}
+
+p {
+    text-indent: 50px;
+    display: flex;
+}
