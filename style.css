@@ -1,5 +1,5 @@
 * {
-    /*outline: 2px solid red;*/
+    /* outline: 2px solid red; */
 }
 
 
@@ -20,6 +20,24 @@
 .EmploymentHeading div{
     text-indent: 50px;
     flex: 1;
+}
+
+.EmploymentDetails{
+    display: flex;
+}
+
+.EmploymentDetails div{
+    margin-left: 100px;
+    margin-bottom: 20px;
+    flex: 1;
+}
+
+.EducationDetails{
+    margin-bottom: 20px;
+}
+
+.EducationDetails div{
+    margin-left: 100px;
 }
 
 .datetime{
